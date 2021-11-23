@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The colors assigned to players 1-4, respectively. -->
+    <array name="player_colors">
+        <item>#cf1919</item>
+        <item>#e6e625</item>
+        <item>#2424d4</item>
+        <item>#1eb01e</item>
+    </array>
+</resources>

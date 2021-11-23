@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Go Time Geese Controller</string>
+    <string name="connect_text">Connect</string>
+    <string name="refresh_text">Refresh</string>
+    <string name="bluetooth_available_select_game_message">Please select the game you would like to connect to. If the game does not appear, please make sure you pair it with your device first.</string>
+    <string name="bluetooth_available_no_devices_message">We could not find any paired devices. Please pair your device with the game and try again.</string>
+    <string name="refresh_complete_toast">Refreshed!</string>
+    <string name="connecting_to_device_dialog_message">Connecting to %s…</string>
+    <string name="game_is_full_toast">This game is full.</string>
+    <string name="unable_to_connect_to_device_toast">Unable to connect to device.</string>
+    <string name="bluetooth_disabled_message">Your Bluetooth setting is disabled. Please turn it on and check back here again.</string>
+    <string name="enable_bluetooth_text">Enable Bluetooth</string>
+    <string name="game_activity_player_text">Player %d</string>
+    <string name="exit_text">Exit</string>
+    <string name="game_activity_pause_resume_btn_text">Pause/Resume</string>
+</resources>
